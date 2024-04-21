@@ -1,4 +1,4 @@
-# VRCMeeter [![Github All Releases](https://img.shields.io/github/downloads/i5ucc/VRCMeeter/total.svg)](https://github.com/I5UCC/VRCMeeter/releases/latest) <a href='https://ko-fi.com/i5ucc' target='_blank'><img height='35' style='border:0px;height:25px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> (Superseded by [SteaMeeter](https://github.com/I5UCC/SteaMeeter))
+# VRCMeeter [![Github All Releases](https://img.shields.io/github/downloads/i5ucc/VRCMeeter/total.svg)](https://github.com/I5UCC/VRCMeeter/releases/latest) <a href='https://ko-fi.com/i5ucc' target='_blank'><img height='35' style='border:0px;height:25px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'></a> (Superseded by [SteaMeeter](https://github.com/I5UCC/SteaMeeter))
 
 
 Control Voicemeeter's Virtual Inputs/Outputs in VRChat via OSC. 
